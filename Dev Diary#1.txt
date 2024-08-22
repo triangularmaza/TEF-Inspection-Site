@@ -1,0 +1,19 @@
+Learned HTML, CSS, JS
+
+--------Decisions--------
+
+Tools
+Backend: Express.js (Node.js)
+Database: MongoDB
+
+Platforms
+Frontend & Backend Hosting: Vercel (free tier)
+Database: MongoDB Atlas (free tier)
+
+
+--------Preparing Environment--------
+
+Installed Node.js, express.js, VS code extensions
+
+
+--------Building---------
